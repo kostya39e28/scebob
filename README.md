@@ -106,14 +106,7 @@
         </div>
     </footer>
 
-/* Стили для футера */
-footer {
-    text-align: center;
-    padding: 30px;
-    background: #333; /* Темный фон */
-    color: #fff;
-    margin-top: 30px;
-    border-top: #5cb85c 3px solid;
+
 }
 
 footer p {
